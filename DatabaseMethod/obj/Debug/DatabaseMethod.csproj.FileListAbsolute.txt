@@ -1,0 +1,15 @@
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\bin\Debug\DatabaseMethod.exe.config
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\bin\Debug\DatabaseMethod.exe
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\bin\Debug\DatabaseMethod.pdb
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\obj\Debug\DatabaseMethod.Form1.resources
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\obj\Debug\DatabaseMethod.Properties.Resources.resources
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\obj\Debug\DatabaseMethod.csproj.GenerateResource.cache
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\obj\Debug\DatabaseMethod.csproj.CoreCompileInputs.cache
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\obj\Debug\DatabaseMethod.exe
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\obj\Debug\DatabaseMethod.pdb
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\bin\Debug\EntityFramework.dll
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\bin\Debug\EntityFramework.xml
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\obj\Debug\DatabaseMethod.csproj.CopyComplete
+C:\Users\santa\OneDrive\Desktop\DatabaseMethod\DatabaseMethod\obj\Debug\DatabaseMethod.SubForms.AuthorForm.resources
